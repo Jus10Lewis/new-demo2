@@ -1,0 +1,48 @@
+
+
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    /* height: 5000px; */
+}
+
+header{
+    background: #dddddd;
+    height: 10vh;
+
+}
+
+footer{
+    background: #dddddd;
+    position: fixed;
+    bottom: 0;
+    height: 10vh;
+    width: 100vw;
+}
+
+p{
+    background: burlywood;
+    border: 1px black dotted;
+    width: 200px;
+}
+
+
+main{
+    position: relative;
+    background: #aaaaaa;
+    /* width: 100vw; */
+    height: 80vh;
+
+}
+
+#controls{
+    position: absolute;
+    bottom: 0;
+    left: 45vw;
+}
+
